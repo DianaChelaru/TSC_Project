@@ -1,4 +1,5 @@
 Acest proiect îmbină mai multe componente electronice conectate la un microcontroler ESP32-C6-WROOM-1-N8, creând o platformă embedded compactă destinată aplicațiilor cu senzoristică, comunicație wireless și o interfață de utilizator minimală. Platforma poate gestiona o serie de funcționalități, inclusiv monitorizarea și interacțiunea cu date în timp real, gestionarea energiei și stocarea datelor.
+Tin sa mentionez ca am incercat in toate felurile posibile si desi am avut piesele bagate in biblioteca, componentele pentru D1 si J2 nu au vrut sa fie adaugate in 3D.
 
     Bill of Materials
 |Componenta	|Link|	Datasheet|
