@@ -135,4 +135,4 @@ Acestea sunt conexiunile pinilor ESP32-C6 la diversele componente ale proiectulu
 |GPIO9	      |  LED	      |      ADAFRUIT_LEDCHIP-LED0603|
 |GPIO10	      |  MOSFET control |	SI1308EDL-T1-GE3|
 
-![alt text](diagrama-1.png)
+![diagrama-1](https://github.com/user-attachments/assets/5c680e25-e701-4353-96a0-fe26028e1a4b)
